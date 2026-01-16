@@ -8,6 +8,9 @@
 
 ## CSS
 - Crazy spacing
+- Format with better names
+- Change colours, fonts, sizes
 
 ## Javascript
-- 
+- Change JS location in HTML
+- Do exercises
